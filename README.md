@@ -1,4 +1,4 @@
-# Documentation
+## Documentation
 
 #### Please visit the new [TRON Developers Hub](https://developers.tron.network/) for detailed guides, interactive APIs, and much more!
 
